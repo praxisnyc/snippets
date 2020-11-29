@@ -1,7 +1,7 @@
 ## Requirements
 - [Sublime Text](http://www.sublimetext.com) (2 or 3)
 - [Wordpress](http://wordpress.org)
-- [Exo snippets](https://github.com/lazy-8/exo/#installation)
+- [nonlinear/snippets](https://github.com/nonlinear/snippets/)
 
 ## Wordpress Snippets
 

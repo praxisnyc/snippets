@@ -1,6 +1,6 @@
 ## Requirements
 - [Sublime Text](http://www.sublimetext.com) (2 or 3)
-- [Exo snippets](https://github.com/lazy-8/exo/#installation)
+- [nonlinear/snippets](https://github.com/nonlinear/snippets/)
 
 ## Installation
 
