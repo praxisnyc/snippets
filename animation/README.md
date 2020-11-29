@@ -1,7 +1,7 @@
 ## Requirements
 - [Sublime Text](http://www.sublimetext.com) (2 or 3)
 - [Animate.css SASS Mixins](https://github.com/geoffgraham/animate.scss)
-- [nonlinear/snippets](https://github.com/nonlinear/snippets/)
+- [nonlinear/snippets](https://github.com/nonlinear/snippets/#snippets)
 
 ## Animation Snippets (view animations at [Animate.css](https://daneden.github.io/animate.css/))
 

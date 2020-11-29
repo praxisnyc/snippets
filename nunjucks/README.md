@@ -1,7 +1,7 @@
 ## Requirements
 - [Sublime Text](http://www.sublimetext.com) (2 or 3)
 - [Canvas](http://www.nonlinear.nyc/canvas/)
-- [nonlinear/snippets](https://github.com/nonlinear/snippets/)
+- [nonlinear/snippets](https://github.com/nonlinear/snippets/#snippets)
 
 ## Nunjucks Snippets
 

@@ -1,6 +1,6 @@
 ## Requirements
 - [Sublime Text](http://www.sublimetext.com) (2 or 3)
-- [nonlinear/snippets](https://github.com/nonlinear/snippets/)
+- [nonlinear/snippets](https://github.com/nonlinear/snippets/#snippets)
 
 |Trick Snippets||
 |---|---|
