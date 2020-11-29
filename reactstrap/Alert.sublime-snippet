@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+<Alert color="${1:secondary}">
+  ${2:Title}
+</ Alert>
+]]>
+  </content>
+  <tabTrigger>alert</tabTrigger>
+  <description>Alert reactstrap</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+text("${1:value}", ${2:x}, ${3:y});
+]]></content>
+    <description>p5js text</description>
+    <tabTrigger>text</tabTrigger>
+</snippet>

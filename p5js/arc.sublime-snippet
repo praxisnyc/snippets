@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+arc(${1:x}, ${2:y}, ${3:width}, ${4:height}, ${5:start}, ${6:stop}${7:, ${8:mode:OPEN|CHORD|PIE}});
+]]></content>
+    <description>p5js arc</description>
+    <tabTrigger>arc</tabTrigger>
+</snippet>

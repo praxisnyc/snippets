@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+strokeWeight($1);
+]]></content>
+    <description>p5js strokeWeight</description>
+    <tabTrigger>strokeWeight</tabTrigger>
+</snippet>

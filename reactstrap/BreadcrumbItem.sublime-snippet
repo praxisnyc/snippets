@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+<BreadcrumbItem ${2:active} ${3:tag="${4:a}"} ${5:href="${6:#}"}>${1:Home}</BreadcrumbItem>
+]]>
+  </content>
+  <tabTrigger>breadcrumb</tabTrigger>
+  <description>BreadcrumbItem reactstrap</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+cos(${1:angle});
+]]></content>
+    <description>p5js cos</description>
+    <tabTrigger>cos</tabTrigger>
+</snippet>

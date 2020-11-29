@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+{["$1", <$2>$3</$2>, "$4"]}
+]]>
+  </content>
+  <tabTrigger>html</tabTrigger>
+  <description>Gatsby html prop</description>
+</snippet>

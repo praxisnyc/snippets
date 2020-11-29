@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+<ButtonGroup  ${2:size="${3:lg}"}>
+  $1
+</ ButtonGroup>
+]]>
+  </content>
+  <tabTrigger>button</tabTrigger>
+  <description>ButtonGroup reactstrap</description>
+</snippet>

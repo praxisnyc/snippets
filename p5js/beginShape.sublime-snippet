@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+beginShape(${1:POINTS|LINES|TRIANGLES|TRIANGLE_STRIP|TRIANGLE_FAN|QUADS|QUAD_STRIP});
+${2:kind:VERTEX}
+endShape(${3:CLOSE});
+]]></content>
+    <description>p5js beginShape</description>
+    <tabTrigger>beginshape</tabTrigger>
+</snippet>

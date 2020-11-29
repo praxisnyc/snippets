@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+${5:// refer to nonlinear.nyc/tile
+}+tile(${1:lines-b}, ${2:black}, ${3:10})
+]]>
+  </content>
+  <tabTrigger>tile</tabTrigger>
+  <description>tile mixin</description>
+  <scope>source.sass</scope>
+</snippet>

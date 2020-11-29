@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+{props.$1}
+]]>
+  </content>
+  <tabTrigger>props</tabTrigger>
+  <description>Gatsby props</description>
+</snippet>

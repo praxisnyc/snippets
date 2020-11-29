@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+blendMode(${1:BLEND|DARKEST|LIGHTEST|DIFFERENCE|MULTIPLY|EXCLUSION|SCREEN|REPLACE|OVERLAY|HARD_LIGHT|SOFT_LIGHT|DODGE|BURN|ADD|REMOVE|SUBTRACT});
+]]></content>
+    <description>p5js blendMode</description>
+    <tabTrigger>blendMode</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+<?php the_post_thumbnail( '${1:thumbnail|medium|large|full}' ); ?>
+]]>
+  </content>
+  <tabTrigger>thumb</tabTrigger>
+  <description>wordpress post thumbnail</description>
+  <scope>source.php</scope>
+</snippet>

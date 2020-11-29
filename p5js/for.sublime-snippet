@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+// counter, test condition, update counter, code
+for (var ${1:i} = 0; ${1:i} < ${2:test condition}; ${3:${1:i}=${1:i}+1}) {
+	$0
+}
+]]></content>
+    <description>p5js for</description>
+    <tabTrigger>for</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+textStyle(${1:NORMAL}${2:ITALIC}${3:BOLD});
+]]></content>
+    <description>p5js textStyle</description>
+    <tabTrigger>textStyle</tabTrigger>
+</snippet>
+ 

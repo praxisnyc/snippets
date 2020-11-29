@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+rotate($1);
+]]></content>
+    <description>p5js rotate</description>
+    <tabTrigger>rotate</tabTrigger>
+</snippet>

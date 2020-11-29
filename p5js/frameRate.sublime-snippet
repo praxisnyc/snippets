@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+frameRate(${1:30});
+]]></content>
+    <description>p5js frameRate</description>
+    <tabTrigger>frameRate</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+random($1, $2);
+]]></content>
+    <description>p5js random</description>
+    <tabTrigger>random</tabTrigger>
+</snippet>

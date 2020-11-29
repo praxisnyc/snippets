@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+scale($1);
+]]></content>
+    <description>p5js scale</description>
+    <tabTrigger>scale</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+{% for ${1:item} in ${2:items} %}
+  ${3: // make sure json file is at app/data/, and get correct variables}
+  ${4:{% else %}
+  ${5:// This would display if the 'user' collection were empty}}
+{% endfor %}
+]]>
+  </content>
+  <tabTrigger>loop</tabTrigger>
+  <description>nunjuck loop</description>
+</snippet>

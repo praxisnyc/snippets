@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+<Breadcrumb>
+	$1
+</ Breadcrumb>
+]]>
+  </content>
+  <tabTrigger>breadcrumb</tabTrigger>
+  <description>Breadcrumb reactstrap</description>
+</snippet>

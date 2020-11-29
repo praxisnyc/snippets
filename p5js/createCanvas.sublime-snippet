@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+createCanvas(${1:x}, ${2:y}, ${3:P2D|WEBGL});
+]]></content>
+    <description>p5js createCanvas</description>
+    <tabTrigger>createCanvas</tabTrigger>
+</snippet>

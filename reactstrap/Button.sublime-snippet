@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+<Button ${2:outline} ${3:color="${4:secondary}"} ${5:size="${6:lg}"}>
+  ${1:Title}
+</ Button>
+]]>
+  </content>
+  <tabTrigger>button</tabTrigger>
+  <description>Button reactstrap</description>
+</snippet>

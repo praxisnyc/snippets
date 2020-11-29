@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+angleMode(${1:DEGREES});
+]]></content>
+    <description>p5js angleMode</description>
+    <tabTrigger>angleMode</tabTrigger>
+</snippet>

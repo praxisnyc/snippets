@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+var ${1:variable} = ["${2:value1}", "${3:value2}", "${4:value3}"]
+${1:variable}[$5];
+]]></content>
+    <description>p5js var array</description>
+    <tabTrigger>var</tabTrigger>
+</snippet>

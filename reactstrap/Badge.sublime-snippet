@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+<Badge color="${1:secondary}">${2:Title}</ Badge>
+]]>
+  </content>
+  <tabTrigger>badge</tabTrigger>
+  <description>Badge reactstrap</description>
+</snippet>

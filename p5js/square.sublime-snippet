@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+square(${1:x}, ${2:y}, ${3:width});
+]]></content>
+    <description>p5js square</description>
+    <tabTrigger>square</tabTrigger>
+</snippet>

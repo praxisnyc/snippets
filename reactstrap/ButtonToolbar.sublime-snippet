@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+<ButtonToolbar>
+  $1
+</ ButtonToolbar>
+]]>
+  </content>
+  <tabTrigger>button</tabTrigger>
+  <description>ButtonToolbar reactstrap</description>
+</snippet>

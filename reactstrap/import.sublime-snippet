@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+import { ${1:Object} } from 'reactstrap'
+]]>
+  </content>
+  <tabTrigger>import</tabTrigger>
+  <description>reactstrap import</description>
+</snippet>

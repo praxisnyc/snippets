@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+loadJSON('$1');
+]]></content>
+    <description>p5js loadJSON</description>
+    <tabTrigger>loadJSON</tabTrigger>
+</snippet>

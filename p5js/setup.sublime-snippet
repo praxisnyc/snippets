@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+function setup($1){
+	${2:// put things in here to load or do just once, at the first frame}
+}
+]]></content>
+    <description>p5js setup</description>
+    <tabTrigger>setup</tabTrigger>
+</snippet>
