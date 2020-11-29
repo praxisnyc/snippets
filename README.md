@@ -14,21 +14,21 @@ Sublime snippets for quick coding (and less syntax errors).
 |[p5js](https://github.com/nonlinear/snippets/blob/main/p5js#requirements)|
 
 
-## Sublime Text Install
+## Install
 
 1. Move to snippets folder (change to `2` if previous version)
 	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
 	- **linux:** `cd ~/.config/sublime-text-3/Packages`
 	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User"`
-2. clone repository `git clone https://github.com/praxisnyc/code-snippets.git code-snippets`
+2. clone repository `git clone https://github.com/nonlinear/snippets.git snippets`
 
 
-## Sublime Text Update
+## Update
 
-1. Move to code-snippets folder (change to `2` if previous version)
-	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/code-snippets`
-	- **linux:** `cd ~/.config/sublime-text-3/Packages/code-snippets`
-	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User\code-snippets"`
+1. Move to snippets folder (change to `2` if previous version)
+	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/snippets`
+	- **linux:** `cd ~/.config/sublime-text-3/Packages/snippets`
+	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User\snippets"`
 2. `git pull`
 
 ### Troubleshooting
