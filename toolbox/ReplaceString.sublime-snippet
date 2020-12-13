@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+ReplaceString('${1:initialString}', '${2:finalString}');
+]]></content>
+    <description>toolbox ReplaceString class</description>
+    <tabTrigger>ReplaceString</tabTrigger>
+</snippet>
