@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-replaceString('${1:initialString}', '${2:finalString}');
+replaceString('${1:initialString}', '${2:finalString}', '${3:target}');
 ]]></content>
     <description>toolbox replaceString class</description>
     <tabTrigger>replaceString</tabTrigger>
